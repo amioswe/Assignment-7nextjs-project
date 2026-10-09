@@ -70,7 +70,7 @@ GITHUB_CLIENT_ID=your-github-client-id
 GITHUB_CLIENT_SECRET=your-github-client-secret
 ```
 
-### ৩. ডেভেলপমেন্ট সার্ভার চালু
+৩. ডেভেলপমেন্ট সার্ভার চালু
 ```bash
 npm run dev
 ```
@@ -85,4 +85,4 @@ npm run start
 
 
 
-© 2026 **বাজার দর (BazarDor)** — সর্বস্বত্ব সংরক্ষিত।
+
